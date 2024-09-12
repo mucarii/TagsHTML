@@ -32,4 +32,4 @@ O arquivo `tags.html` inclui:
 1. Clone este repositório para o seu ambiente local:
 
    ```bash
-   git clone https://github.com/usuario/repositorio.git
+   git clone https://github.com/mucarii/TagsHTML.git
